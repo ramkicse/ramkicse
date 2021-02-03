@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Hi I'm Ramakrishnan 👋
 ![](https://komarev.com/ghpvc/?username=ramkicse&color=green)
 
 ### Languages
@@ -30,9 +30,10 @@
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramkicse&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
+##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://ramkitech.com"><img src="https://img.shields.io/badge/-ramkic.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.ramkitech.com"><img src="https://img.shields.io/badge/-ramkic.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ramkicse"><img src="https://img.shields.io/badge/-ramkicse-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:camthomp96@gamil.com"><img src="https://img.shields.io/badge/-ramkicse@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <!--
